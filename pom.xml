@@ -4,7 +4,7 @@
 
     <groupId>com.gitghub.thiagogarbazza.exemplos</groupId>
     <artifactId>test-maven-release-plugin</artifactId>
-    <version>99.99.99</version>
+    <version>99.99.99-SNAPSHOT</version>
     <modules>
         <module>domain</module>
         <module>rest-adapter</module>
@@ -15,9 +15,9 @@
     <description>Testar o release automático através do plugin do maven Release</description>
 
     <scm>
-        <connection>scm:git:https://github.com/thiagogarbazza/example-maven-release.git</connection>
-        <developerConnection>scm:git:https://github.com/thiagogarbazza/example-maven-release.git</developerConnection>
-        <url>https://github.com/thiagogarbazza/example-maven-release.git</url>
+        <connection>scm:git:https://github.com/MazharAhmed/maven-release.git</connection>
+        <developerConnection>scm:git:https://github.com/MazharAhmed/maven-release.git</developerConnection>
+        <url>https://github.com/MazharAhmed/maven-release.git</url>
         <tag>99.99.99</tag>
   </scm>
 
