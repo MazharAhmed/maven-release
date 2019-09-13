@@ -3,7 +3,7 @@
     <parent>
         <artifactId>test-maven-release-plugin</artifactId>
         <groupId>com.gitghub.thiagogarbazza.exemplos</groupId>
-        <version>99.99.99-SNAPSHOT</version>
+        <version>99.99.99</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -13,7 +13,7 @@
         <dependency>
             <groupId>com.gitghub.thiagogarbazza.exemplos</groupId>
             <artifactId>domain</artifactId>
-            <version>99.99.99-SNAPSHOT</version>
+            <version>99.99.99</version>
         </dependency>
 
         <dependency>
