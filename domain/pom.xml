@@ -3,7 +3,7 @@
     <parent>
         <artifactId>test-maven-release-plugin</artifactId>
         <groupId>com.gitghub.thiagogarbazza.exemplos</groupId>
-        <version>99.99.99</version>
+        <version>0.3.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
